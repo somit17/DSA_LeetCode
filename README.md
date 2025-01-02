@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_LeetCode/tree/master/0217-contains-duplicate) |
+| [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somit17/DSA_LeetCode/tree/master/0242-valid-anagram) |
+| [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -19,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/somit17/DSA_LeetCode/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
