@@ -1,15 +1,16 @@
 public class Solution {
     public int NumIdenticalPairs(int[] nums) {
-      int[] frequencyArray = new int[102];
-        foreach(var num in nums)
-        {
-            frequencyArray[num]++;
-        }
+      Dictionary<int, int> counts = new Dictionary<int, int>();
         int totalCount = 0;
-        foreach(int i in frequencyArray)
-        {
-            totalCount = totalCount+((i)*(i-1))/2;
+        foreach (var num in nums) {
+            if (counts.ContainsKey(num)) {
+                totalCount += counts[num]; // Add the count of `num` to `totalCount`
+                counts[num]++; // Increment the count for `num`
+            } else {
+                counts[num] = 1; // Initialize the count for `num`
+            }
         }
-        return totalCount;  
+        
+        return totalCount;
     }
 }
