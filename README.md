@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/somit17/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/somit17/DSA_LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/somit17/DSA_LeetCode/tree/master/0290-word-pattern) |
 | [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/somit17/DSA_LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/somit17/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/somit17/DSA_LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/somit17/DSA_LeetCode/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
