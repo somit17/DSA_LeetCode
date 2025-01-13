@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/somit17/DSA_LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/somit17/DSA_LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2639-separate-the-digits-in-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/somit17/DSA_LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [2639-separate-the-digits-in-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
