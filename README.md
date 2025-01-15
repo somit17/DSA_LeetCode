@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/somit17/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/somit17/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/somit17/DSA_LeetCode/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/somit17/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_LeetCode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
@@ -61,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/somit17/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
