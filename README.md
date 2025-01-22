@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/somit17/DSA_LeetCode/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/somit17/DSA_LeetCode/tree/master/0682-baseball-game) |
 | [1603-running-sum-of-1d-array](https://github.com/somit17/DSA_LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/somit17/DSA_LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/somit17/DSA_LeetCode/tree/master/0682-baseball-game) |
 | [2639-separate-the-digits-in-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/somit17/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/somit17/DSA_LeetCode/tree/master/1894-merge-strings-alternately) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/somit17/DSA_LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
