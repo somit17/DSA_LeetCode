@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/somit17/DSA_LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/somit17/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_LeetCode/tree/master/0392-is-subsequence) |
+| [1666-make-the-string-great](https://github.com/somit17/DSA_LeetCode/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/somit17/DSA_LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/somit17/DSA_LeetCode/tree/master/0682-baseball-game) |
+| [1666-make-the-string-great](https://github.com/somit17/DSA_LeetCode/tree/master/1666-make-the-string-great) |
 <!---LeetCode Topics End-->
