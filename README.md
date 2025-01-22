@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/somit17/DSA_LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/somit17/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/somit17/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_LeetCode/tree/master/0217-contains-duplicate) |
@@ -82,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/somit17/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/somit17/DSA_LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
