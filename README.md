@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/somit17/DSA_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/somit17/DSA_LeetCode/tree/master/0682-baseball-game) |
 | [1666-make-the-string-great](https://github.com/somit17/DSA_LeetCode/tree/master/1666-make-the-string-great) |
 ## Binary Search
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/somit17/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/somit17/DSA_LeetCode/tree/master/0792-binary-search) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/somit17/DSA_LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/somit17/DSA_LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
