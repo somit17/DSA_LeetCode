@@ -1,17 +1,17 @@
 public class MyStack {
     Queue<int> q1;
-    Queue<int> q2;
+    //Queue<int> q2;
     public MyStack() {
         q1=new Queue<int>();
-        q2=new Queue<int>();
+        //q2=new Queue<int>();
     }
     
     public void Push(int x) {
-        q2.Enqueue(x);
-        while(q1.Count>0){
-            q2.Enqueue(q1.Dequeue());
+        q1.Enqueue(x);
+        
+        for(int i=0;i<q1.Count-1;i++){
+            q1.Enqueue(q1.Dequeue());
         }
-        (q1, q2) = (q2, q1);
     }
     
     public int Pop() {
