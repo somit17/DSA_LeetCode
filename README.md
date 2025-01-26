@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/somit17/DSA_LeetCode/tree/master/0441-arranging-coins) |
 | [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/somit17/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/somit17/DSA_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/somit17/DSA_LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/somit17/DSA_LeetCode/tree/master/0792-binary-search) |
 ## Design
 |  |
