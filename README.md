@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/somit17/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/somit17/DSA_LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/somit17/DSA_LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/somit17/DSA_LeetCode/tree/master/0682-baseball-game) |
 | [1666-make-the-string-great](https://github.com/somit17/DSA_LeetCode/tree/master/1666-make-the-string-great) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/somit17/DSA_LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/somit17/DSA_LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/somit17/DSA_LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/somit17/DSA_LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
