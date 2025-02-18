@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/somit17/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/somit17/DSA_LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/somit17/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/somit17/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/somit17/DSA_LeetCode/tree/master/0283-move-zeroes) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/somit17/DSA_LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/somit17/DSA_LeetCode/tree/master/0268-missing-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/somit17/DSA_LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Greedy
