@@ -15,7 +15,7 @@ public class Solution {
     IList<int> result;
     public IList<int> InorderTraversal(TreeNode root) {
         result=new List<int>();
-        InorderRecursively(root);
+        InorderTraversalIteratively(root);
         return result;
     }
     public void InorderRecursively(TreeNode root){
@@ -25,4 +25,21 @@ public class Solution {
             InorderRecursively(root.right);
         }
     }
+
+    public void InorderTraversalIteratively(TreeNode root){
+        if (root == null) return;
+        Stack<TreeNode> stack = new Stack<TreeNode>();
+        TreeNode current = root;
+        while(current!=null || stack.Count != 0){
+            while(current!=null){
+                stack.Push(current);
+                current=current.left;
+            }
+            current= stack.Pop();
+            result.Add(current.val);
+            current=current.right;
+        }
+    }
+
+
 }
