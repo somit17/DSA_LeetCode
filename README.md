@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/somit17/DSA_LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/somit17/DSA_LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/somit17/DSA_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2639-separate-the-digits-in-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/somit17/DSA_LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/somit17/DSA_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/somit17/DSA_LeetCode/tree/master/0975-range-sum-of-bst) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/somit17/DSA_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/somit17/DSA_LeetCode/tree/master/0975-range-sum-of-bst) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/somit17/DSA_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
