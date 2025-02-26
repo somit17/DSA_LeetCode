@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/somit17/DSA_LeetCode/tree/master/0975-range-sum-of-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/somit17/DSA_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/somit17/DSA_LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/somit17/DSA_LeetCode/tree/master/0975-range-sum-of-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/somit17/DSA_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/somit17/DSA_LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
