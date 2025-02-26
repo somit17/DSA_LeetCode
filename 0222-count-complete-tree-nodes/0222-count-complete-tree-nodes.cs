@@ -15,9 +15,36 @@ public class Solution {
     int totalNodes = 0;
     public int CountNodes(TreeNode root) {
         if(root==null) return 0;
-        DFSTraversal(root);
-        return totalNodes;
+        int lH = getLeftHeight(root);
+        int rH = getRightHeight(root);
+        if(lH==rH){ //perfect binary Tree
+            return Convert.ToInt32(Math.Pow(2,lH)-1);
+        }
+
+        //DFSTraversal(root);
+        return CountNodes(root.left)+CountNodes(root.right)+1;
     }
+
+    public int getLeftHeight(TreeNode root){
+        TreeNode temp = root;
+        int lH = 0;
+        while(temp!=null){
+            temp= temp.left;
+            lH++;
+        }
+        return lH;
+    }
+
+    public int getRightHeight(TreeNode root){
+        TreeNode temp = root;
+        int rH = 0;
+        while(temp!=null){
+            temp= temp.right;
+            rH++;
+        }
+        return rH;
+    }
+
     public void DFSTraversal(TreeNode root){
         if(root==null) return;
         totalNodes++;
