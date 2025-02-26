@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/somit17/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/somit17/DSA_LeetCode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/somit17/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/somit17/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/somit17/DSA_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/somit17/DSA_LeetCode/tree/master/0441-arranging-coins) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/somit17/DSA_LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/somit17/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/somit17/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/somit17/DSA_LeetCode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/somit17/DSA_LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/somit17/DSA_LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/somit17/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/somit17/DSA_LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/somit17/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
