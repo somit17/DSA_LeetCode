@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/somit17/DSA_LeetCode/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/somit17/DSA_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/somit17/DSA_LeetCode/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/somit17/DSA_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/somit17/DSA_LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/somit17/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
