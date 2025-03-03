@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/somit17/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/somit17/DSA_LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/somit17/DSA_LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/somit17/DSA_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1666-make-the-string-great](https://github.com/somit17/DSA_LeetCode/tree/master/1666-make-the-string-great) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/somit17/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/somit17/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/somit17/DSA_LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/somit17/DSA_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/somit17/DSA_LeetCode/tree/master/1894-merge-strings-alternately) |
