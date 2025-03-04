@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/somit17/DSA_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/somit17/DSA_LeetCode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/somit17/DSA_LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/somit17/DSA_LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/somit17/DSA_LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1603-running-sum-of-1d-array](https://github.com/somit17/DSA_LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/somit17/DSA_LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/somit17/DSA_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/somit17/DSA_LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/somit17/DSA_LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
