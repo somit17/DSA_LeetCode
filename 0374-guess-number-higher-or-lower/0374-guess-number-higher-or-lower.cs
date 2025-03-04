@@ -9,15 +9,17 @@
 
 public class Solution : GuessGame {
     public int GuessNumber(int n) {
-       int L=0,R=n-1;
-       while(L<=R){
-            int guessNo = L+(R-L)/2;
-            int result = guess(guessNo);
-            if(result==0) return guessNo;
-            else if(result==-1) R=guessNo-1;
-            else L=guessNo+1;
-       }
+        int L=0,R=n-1;
+        while(L<=R){
+            int mid = L+(R-L)/2;
+            int result = guess(mid);
+            if(result==0)
+            return mid;
+            else if(result==-1)
+                R=mid-1;
+            else if(result==1)
+                L=mid+1;
+        }
         return n;
     }
-    
 }
