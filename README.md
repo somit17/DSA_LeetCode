@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/somit17/DSA_LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/somit17/DSA_LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/somit17/DSA_LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/somit17/DSA_LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
+| [2121-find-if-path-exists-in-graph](https://github.com/somit17/DSA_LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/somit17/DSA_LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
+| [2121-find-if-path-exists-in-graph](https://github.com/somit17/DSA_LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
