@@ -12,7 +12,7 @@ public class Solution {
         }
         bool[] visited = new bool[n];
         Array.Fill(visited,false);
-        return DFS(adj,source,visited,destination);
+        return BFS(adj,source,visited,destination);
 
     }
 
@@ -24,6 +24,23 @@ public class Solution {
         foreach(var v in adj[source]){
             if(DFS(adj,v,visited,destination))
                 return true;
+        }
+        return false;
+    }
+
+    public bool BFS(Dictionary<int,List<int>> adj,int source ,bool[] visited,int destination){
+        Queue<int> queue = new();
+        queue.Enqueue(source);
+        visited[source]=true;
+        while(queue.Count > 0){
+            var current = queue.Dequeue();
+            if(current==destination) return true;
+            foreach(var v in adj[current]){
+                if(!visited[v]){
+                    queue.Enqueue(v);
+                    visited[v]=true;
+                }
+            }
         }
         return false;
     }
