@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/somit17/DSA_LeetCode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/somit17/DSA_LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/somit17/DSA_LeetCode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Divide and Conquer
@@ -272,12 +274,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/somit17/DSA_LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/somit17/DSA_LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/somit17/DSA_LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
