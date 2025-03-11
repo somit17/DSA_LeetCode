@@ -14,7 +14,8 @@ public class Solution {
         Array.Fill(color,-1);
         for(int i=1;i<=n;i++){
             if(color[i]==-1){
-                if(!BFSBipartite(adj,color,i))
+                //if(!BFSBipartite(adj,color,i))
+                if(!DFSBipartite(adj,color,i,0))
                     return false;
             }
         }
@@ -34,6 +35,21 @@ public class Solution {
                     q.Enqueue(v);
                 }
             }
+        }
+        return true;
+    }
+
+    public bool DFSBipartite(Dictionary<int,List<int>> adj,int[] color,int startNode,int currentColor){
+        color[startNode]=currentColor;
+        foreach(var v in adj[startNode]){
+            if(color[v]==color[startNode]){
+                return false;
+            }
+            if(color[v]==-1){
+                if(!DFSBipartite(adj,color,v,1-currentColor))
+                    return false;
+            }
+            
         }
         return true;
     }
