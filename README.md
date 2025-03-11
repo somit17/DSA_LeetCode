@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/somit17/DSA_LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/somit17/DSA_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0922-possible-bipartition](https://github.com/somit17/DSA_LeetCode/tree/master/0922-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/somit17/DSA_LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/somit17/DSA_LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/somit17/DSA_LeetCode/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/somit17/DSA_LeetCode/tree/master/0922-possible-bipartition) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/somit17/DSA_LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/somit17/DSA_LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/somit17/DSA_LeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/somit17/DSA_LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/somit17/DSA_LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/somit17/DSA_LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/somit17/DSA_LeetCode/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/somit17/DSA_LeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/somit17/DSA_LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
