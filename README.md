@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1666-make-the-string-great](https://github.com/somit17/DSA_LeetCode/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/somit17/DSA_LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/somit17/DSA_LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/somit17/DSA_LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/somit17/DSA_LeetCode/tree/master/0441-arranging-coins) |
 | [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/somit17/DSA_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2032-largest-odd-number-in-string](https://github.com/somit17/DSA_LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/somit17/DSA_LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Tree
 |  |
 | ------- |
