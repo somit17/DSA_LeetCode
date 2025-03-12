@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/somit17/DSA_LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/somit17/DSA_LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/somit17/DSA_LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/somit17/DSA_LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/somit17/DSA_LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/somit17/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/somit17/DSA_LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/somit17/DSA_LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## String
 |  |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/somit17/DSA_LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
