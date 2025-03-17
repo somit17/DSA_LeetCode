@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/somit17/DSA_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/somit17/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/somit17/DSA_LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/somit17/DSA_LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/somit17/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/somit17/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/somit17/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/somit17/DSA_LeetCode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/somit17/DSA_LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/somit17/DSA_LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/somit17/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/somit17/DSA_LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/somit17/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/somit17/DSA_LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0113-path-sum-ii) |
 ## Trie
 |  |
@@ -338,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/somit17/DSA_LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
