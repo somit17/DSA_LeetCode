@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/somit17/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/somit17/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/somit17/DSA_LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0540-single-element-in-a-sorted-array](https://github.com/somit17/DSA_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/somit17/DSA_LeetCode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/somit17/DSA_LeetCode/tree/master/0792-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/somit17/DSA_LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/somit17/DSA_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/somit17/DSA_LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1635-number-of-good-pairs](https://github.com/somit17/DSA_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/somit17/DSA_LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/somit17/DSA_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/somit17/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/somit17/DSA_LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/somit17/DSA_LeetCode/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/somit17/DSA_LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/somit17/DSA_LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/somit17/DSA_LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/somit17/DSA_LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0113-path-sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/somit17/DSA_LeetCode/tree/master/0491-non-decreasing-subsequences) |
 ## Trie
 |  |
 | ------- |
