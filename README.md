@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/somit17/DSA_LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/somit17/DSA_LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/somit17/DSA_LeetCode/tree/master/0131-palindrome-partitioning) |
