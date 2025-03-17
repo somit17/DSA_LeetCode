@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/somit17/DSA_LeetCode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/somit17/DSA_LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/somit17/DSA_LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/somit17/DSA_LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/somit17/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/somit17/DSA_LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/somit17/DSA_LeetCode/tree/master/0242-valid-anagram) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/somit17/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/somit17/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/somit17/DSA_LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/somit17/DSA_LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/somit17/DSA_LeetCode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/somit17/DSA_LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/somit17/DSA_LeetCode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/somit17/DSA_LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/somit17/DSA_LeetCode/tree/master/0491-non-decreasing-subsequences) |
 ## Trie
 |  |
